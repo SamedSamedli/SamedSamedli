@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samedsamedli&label=Profile%20views&color=0e75b6&style=flat" alt="samedsamedli" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://samedsamedli.herokuapp.com/](https://samedsamedli.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://samedsamedli.com/]
 
 - 📫 How to reach me **samedli.ssi@gmail.com**
 
